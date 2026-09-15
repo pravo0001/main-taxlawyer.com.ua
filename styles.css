@@ -1927,7 +1927,7 @@ body.blog-page.premium-site.theme-night {
 }
 
 .premium-site .blog-layout::before {
-  content: "";
+  content: none;
   position: absolute;
   inset: 0;
   pointer-events: none;
@@ -2215,6 +2215,13 @@ body.blog-page.premium-site.theme-night .blog-feed-panel {
   color: var(--blog-brand-ink);
 }
 
+.premium-site .blog-per-select.is-active,
+.premium-site .blog-page-btn.is-active {
+  opacity: 1;
+  cursor: pointer;
+  color: var(--text-strong);
+}
+
 .premium-site .blog-feed-range {
   margin: 0;
   font-size: 0.88rem;
@@ -2403,6 +2410,15 @@ body.premium-site.uniform-page-bg::before {
   z-index: -1;
   pointer-events: none;
   background:
+    radial-gradient(ellipse 120% 80% at 12% 8%, color-mix(in srgb, var(--accent) 12%, transparent) 0%, transparent 52%),
+    radial-gradient(ellipse 90% 70% at 88% 42%, color-mix(in srgb, var(--blog-brand-fill, #1a2822) 7%, transparent) 0%, transparent 48%),
+    repeating-linear-gradient(
+      -12deg,
+      transparent,
+      transparent 38px,
+      color-mix(in srgb, var(--line) 30%, transparent) 38px,
+      color-mix(in srgb, var(--line) 30%, transparent) 39px
+    ),
     radial-gradient(circle at top left, rgba(154, 107, 58, 0.14), transparent 28%),
     radial-gradient(circle at top right, rgba(43, 27, 18, 0.06), transparent 20%),
     linear-gradient(180deg, var(--bg) 0%, var(--bg-soft) 100%);
@@ -2514,7 +2530,7 @@ body.premium-site.uniform-page-bg::before {
   }
 
   .premium-site .hero-visual {
-    order: -1;
+    order: 0;
     justify-self: center;
     max-width: 400px;
     width: 100%;
@@ -2676,4 +2692,83 @@ body.premium-site.uniform-page-bg::before {
     width: 24px;
     height: 24px;
   }
+}
+
+/* --- Іконки в стилі сайту (замість емодзі) --- */
+.premium-site .icon {
+  width: 1em;
+  height: 1em;
+  flex: none;
+  display: inline-block;
+  vertical-align: -0.14em;
+}
+
+.premium-site .btn .icon {
+  width: 1.05em;
+  height: 1.05em;
+  margin-right: 9px;
+  opacity: 0.92;
+}
+
+.premium-site .form-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 18px;
+}
+
+.premium-site .form-meta .meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+}
+
+.premium-site .form-meta .icon {
+  width: 15px;
+  height: 15px;
+  color: var(--accent);
+}
+
+.premium-site.theme-night .form-meta .icon {
+  color: var(--accent-2);
+}
+
+.premium-site .floating-cta {
+  color: #fffaf3;
+}
+
+/* --- Safari на iOS: вкладені backdrop-filter інколи малюються суцільною світлою плямою,
+   через що текст у картках зникав. Даємо кожній «скляній» панелі непрозору основу. --- */
+.premium-site .hero-copy,
+.premium-site .hero-visual,
+.premium-site .panel,
+.premium-site .social-preview,
+.premium-site .faq-card,
+.premium-site .contact-card,
+.premium-site .article-wrap,
+.premium-site .stat-card,
+.premium-site .service-card,
+.premium-site .case-card,
+.premium-site .testimonial-card,
+.premium-site .trust-card,
+.premium-site .resource-card,
+.premium-site .blog-card {
+  background-color: var(--bg-soft);
+  background-image: linear-gradient(var(--surface), var(--surface));
+  -webkit-backdrop-filter: blur(18px);
+}
+
+.premium-site .hero-visual .trust-card,
+.premium-site .hero-proof .trust-card {
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.premium-site .section-dark .trust-card,
+.premium-site .section-dark .panel,
+.premium-site .section-dark .spotlight-panel {
+  background-color: var(--surface-dark);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
 }
