@@ -1,6 +1,23 @@
 {
   "articles": [
     {
+      "slug": "shtraf-za-pomylky-v-chekakh-rro-odna-minzarplata-zakonoproiekt-16036",
+      "date": "2026-11-25",
+      "topic": "ppr",
+      "title": "Штраф за помилку в чеку РРО хочуть обмежити однією мінімальною зарплатою: законопроєкт № 16036 рекомендовано до ухвалення в цілому",
+      "source_urls": [
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/70693",
+        "https://www.kmu.gov.ua/news/novi-pravyla-obmezhennia-vytrat-na-zapozychennia-komitet-vru-rekomenduvav-pryiniaty-zakonoproiekt-u-tsilomu",
+        "https://www.rada.gov.ua/preview/anonsy_podij/276872.html",
+        "https://minfin.com.ua/ua/2026/11/19/185887472/",
+        "https://interfax.com.ua/news/economic/1241162.html"
+      ],
+      "source_ids": [
+        "bill:16036",
+        "bill-16036-committee:2026-11-18"
+      ]
+    },
+    {
       "slug": "perevirka-za-materialamy-beb-donarahuvannya-15-mln-ppr",
       "date": "2026-09-15",
       "topic": "ppr",
