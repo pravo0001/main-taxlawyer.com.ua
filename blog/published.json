@@ -18,6 +18,144 @@
       ]
     },
     {
+      "slug": "pdv-dlia-fop-z-2028-roku-zakonoproiekt-minfinu-porih-85-tysiach-yevro-avtomatychna-reiestratsiia",
+      "date": "2026-11-24",
+      "topic": "fop",
+      "title": "ПДВ для ФОП з 2028 року: Мінфін підготував новий законопроєкт — поріг 85 тис. євро, автоматична реєстрація і 3 % + ПДВ для третьої групи",
+      "source_urls": [
+        "https://7eminar.ua/news/26767-pdv-dlya-fop-minfin-peredav-zakonoprojekt-do-profilnogo-komitetu-dlya",
+        "https://7eminar.ua/news/18566-pdv-dlya-fop-z-2027-avtorejestraciya-i-perexidni-pravila",
+        "https://dou.ua/lenta/news/new-taxes-for-businesses-2028/",
+        "https://eurosolidarity.org/2026/11/24/nina-yuzhanina-uryad-pidgotuvav-zakonoproyekt-pro-pdv-dlya-fop/"
+      ],
+      "source_ids": [
+        "minfin-pdv-yep:2026-11-21"
+      ]
+    },
+    {
+      "slug": "zakon-pro-sproshchennia-pdv-16037-d-kvartalna-zvitnist-fop-porih-perevirok-1-mln-vin-imei-prodazh-avto",
+      "date": "2026-11-17",
+      "topic": "pdv",
+      "title": "Закон про спрощення ПДВ ухвалено: квартальна звітність для ФОП, поріг перевірок 1 млн грн, VIN та IMEI у накладних і нові правила продажу авто",
+      "source_urls": [
+        "https://www.kmu.gov.ua/news/sproshchennia-administruvannia-pdv-parlament-pryiniav-zakonoproiekt-u-tsilomu",
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/70912",
+        "https://suspilne.media/1450371-rada-zminila-pravila-sodo-pdv-dla-biznesu-so-peredbacae-novij-zakon/"
+      ],
+      "source_ids": [
+        "bill:16037-д"
+      ]
+    },
+    {
+      "slug": "podatky-na-kryptovaliutu-zakonoproiekt-10225-d-druhe-chytannia-18-plus-5-pilhovi-5-vidsotkiv",
+      "date": "2026-11-10",
+      "topic": "pdfo",
+      "title": "Податки на криптовалюту: законопроєкт № 10225-д готовий до другого читання — 18 % з прибутку, пільгові 5 % для «старих» активів і що зробити власникам уже зараз",
+      "source_urls": [
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/56271",
+        "https://kurs.com.ua/novost/1487014-u-radi-pidtrimali-zakonoproekt-pro-kriptovaljuti-nazvani-stroki-priinjattja",
+        "https://www.slovoidilo.ua/2026/11/06/infografika/finansy/podatkova-amnistiya-ta-23-prodazhu-peredbachaye-zakonoproyekt-pro-kryptoaktyvy"
+      ],
+      "source_ids": [
+        "bill:10225-д"
+      ]
+    },
+    {
+      "slug": "podatok-z-orendy-kvartyry-5-vidsotkiv-zamist-18-z-23-zhovtnia-2026-shcho-zminylosia",
+      "date": "2026-11-03",
+      "topic": "pdfo",
+      "title": "Податок з оренди квартири — 5 % замість 18 %: що змінилося для орендодавців з 23 жовтня 2026 року",
+      "source_urls": [
+        "https://7eminar.ua/news/25752-orenda-neruxomosti-u-fizosib-pdfo-znizili-z-18-do-5",
+        "https://7eminar.ua/news/25982-orenda-primishhennya-u-fizosobi-ci-potribno-diliti-orendnu-platu-za",
+        "https://7eminar.ua/news/26331-orenda-za-ves-zovten-a-naraxuvannya-31-zovtnya-ci-mozna"
+      ],
+      "source_ids": [
+        "orenda-pdfo-5:2026-10-23"
+      ]
+    },
+    {
+      "slug": "podatok-na-olx-zakon-4903-ix-chynnyi-stavka-10-vidsotkiv-porih-2000-yevro-shcho-robyty-prodavtsiam",
+      "date": "2026-10-27",
+      "topic": "pdfo",
+      "title": "«Податок на OLX» став законом: № 4903-IX чинний з 23 жовтня 2026 року. Ставка 10 %, поріг 2000 євро і що зробити продавцям до 1 січня 2027-го",
+      "source_urls": [
+        "https://news.dtkt.ua/taxation/common/115808-opodatkuvannia-doxodiv-z-olx-uber-ta-prom-zakon-4903-dije-z-23-zovtnia-2026-r",
+        "https://ukrinform.ua/rubric-economy/4132134-ak-pracuvatime-zakon-pro-podatok-na-olx-rozasnenna-mfnfinu.html"
+      ],
+      "source_ids": [
+        "law:4903-IX"
+      ]
+    },
+    {
+      "slug": "pdv-na-posylky-do-150-yevro-zakony-5025-ix-5026-ix-shcho-zminytsia-i-koly",
+      "date": "2026-10-20",
+      "topic": "pdv",
+      "title": "ПДВ на посилки до 150 євро: Рада ухвалила закони № 5025-IX і № 5026-IX — що зміниться для покупців, маркетплейсів і коли це запрацює",
+      "source_urls": [
+        "https://www.kmu.gov.ua/news/opodatkuvannia-mizhnarodnykh-posylok-verkhovna-rada-pryiniala-paket-zakonoproiektiv",
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/70719",
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/70432"
+      ],
+      "source_ids": [
+        "law:5025-IX",
+        "law:5026-IX"
+      ]
+    },
+    {
+      "slug": "onlyfans-kas-vs-160-26087-25-ppr-skasovano-stara-adresa-nemaie-dokaziv-otrymannia-dokhodu",
+      "date": "2026-10-16",
+      "topic": "onlyfans",
+      "title": "OnlyFans: Верховний Суд залишив у силі скасування ППР на понад 1,13 млн грн — наказ надіслали на стару адресу, а доказів отримання доходу не було (справа № 160/26087/25)",
+      "source_urls": [
+        "https://antikor.info/articles/869345-verhovnyj_sud_otmenil_nalogovye_nachislenija_na_summu_bolee_113_mln_grn_po_delu_o_dohodah_s_onlyfans"
+      ],
+      "source_ids": [
+        "case:160/26087/25"
+      ]
+    },
+    {
+      "slug": "pdv-21-vidsotok-2027-proiekt-biudzhetu-16000-shcho-zakladeno-i-chomu-tse-ne-zakon",
+      "date": "2026-10-06",
+      "topic": "pdv",
+      "title": "ПДВ 21 % з 2027 року: що насправді закладено в проєкт бюджету і чому це ще не закон",
+      "source_urls": [
+        "https://www.unian.ua/economics/finance/pdv-v-ukrajini-mozhut-pidvishchiti-v-2027-roci-prem-yer-zrobiv-vazhlivu-zayavu-13512288.html",
+        "https://focus.ua/uk/economics/767863-v-ukrajini-mozhut-pidvishchiti-pdv-u-2027-roci-podatki-vzhe-zaklali-u-derzhbyudzhet",
+        "https://news.dtkt.ua/taxation/pdv/115499-u-2027-roci-ne-bude-zbilsennia-stavki-pdv-do-21-zelezniak",
+        "https://forbes.ua/money/minekonomiki-vidmovilosia-vid-ideyi-pidvishhennia-pdv-dlia-finansuvannia-fondu-straxuvannia-zvidki-teper-vizmut-grosi-25112026-44026"
+      ],
+      "source_ids": [
+        "pdv-21:budget-2027"
+      ]
+    },
+    {
+      "slug": "bezvidsotkova-pozyka-fop-ne-finposerednytstvo-perevirka-v-kabineti-dps-kas-vs-320-46652-23",
+      "date": "2026-09-29",
+      "topic": "fop",
+      "title": "Безвідсоткова позика від ФОП — не «фінансове посередництво»: Верховний Суд скасував понад 3,5 млн грн донарахувань у справі № 320/46652/23",
+      "source_urls": [
+        "https://reyestr.court.gov.ua/Review/138934928",
+        "https://buh.ligazakon.net/news/246306_povorotna-fndopomoga-ta-diniy-podatok-rshennya-verkhovnogo-sudu-na-korist-fop"
+      ],
+      "source_ids": [
+        "case:320/46652/23"
+      ]
+    },
+    {
+      "slug": "podatky-fop-2027-yedynyi-podatok-yesv-viiskovyi-zbir-proiekt-biudzhetu-16000",
+      "date": "2026-09-22",
+      "topic": "fop",
+      "title": "Податки ФОП у 2027 році: скільки платити єдиного податку, ЄСВ і військового збору за проєктом держбюджету № 16000",
+      "source_urls": [
+        "https://itd.rada.gov.ua/billinfo/Bills/Card/70773"
+      ],
+      "source_ids": [
+        "bill:16000",
+        "fop-2027:mzp-9546"
+      ]
+    },
+    {
       "slug": "perevirka-za-materialamy-beb-donarahuvannya-15-mln-ppr",
       "date": "2026-09-15",
       "topic": "ppr",
