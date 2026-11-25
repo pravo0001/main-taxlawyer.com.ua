@@ -7,7 +7,7 @@
 ## Як публікується стаття
 
 1. Підготувати `article.json` (формат — `tools/article.example.json`): slug, topic
-   (`ppr` / `onlyfans` / `pn-rk`), заголовок, SEO-заголовок, meta-опис, анонс, дата,
+   (`ppr` / `onlyfans` / `pn-rk`; для ширших тем — `fop`, `pdv`, `pdfo`), заголовок, SEO-заголовок, meta-опис, анонс, дата,
    лід, `body_html` (розділи `<h2>`, абзаци, списки), джерела, `source_ids`
    (ідентифікатори новини: `case:<номер справи>`, `sc-news:<id>`, `dps-news:<id>`,
    `bill:<номер>`, `law:<номер>` тощо), CTA.

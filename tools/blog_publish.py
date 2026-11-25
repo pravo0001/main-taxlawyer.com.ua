@@ -46,6 +46,21 @@ TOPICS = {
         "service_link": "../podatkovi-spory.html",
         "service_label": "Податкові спори",
     },
+    "fop": {
+        "label": "ФОП і єдиний податок",
+        "service_link": "../podatkovi-konsultatsii.html",
+        "service_label": "Податкові консультації",
+    },
+    "pdv": {
+        "label": "ПДВ",
+        "service_link": "../podatkovi-spory.html",
+        "service_label": "Податкові спори",
+    },
+    "pdfo": {
+        "label": "Податки фізичних осіб",
+        "service_link": "../podatkovi-konsultatsii.html",
+        "service_label": "Податкові консультації",
+    },
 }
 
 MONTHS_GEN = ["січня", "лютого", "березня", "квітня", "травня", "червня",
